@@ -1,0 +1,20 @@
+{
+	"gun.m870.fire": {
+		"sounds": [
+			"gunfire/m870"
+		]
+	},
+	"gun.ak47.fire": {
+		"sounds": [
+			{
+				"name": "gunfire/ak47",
+				"volume": 0.1
+			}
+		]
+	},
+	"gun.m14.fire": {
+		"sounds": [
+			"gunfire/m14"
+		]
+	}
+ }

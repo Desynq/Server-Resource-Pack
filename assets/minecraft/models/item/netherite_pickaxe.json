@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_pickaxe"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/tools/mystite_pickaxe"},
+		{"predicate": {"custom_model_data":2}, "model": "item/tools/molten_pickaxe"},
+		{"predicate": {"custom_model_data":3}, "model": "item/tools/carbonite_drill"}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/posters/sabre"
+	},
+	"display": {
+		"fixed": {
+			"scale": [
+				2,
+				2,
+				2
+			],
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

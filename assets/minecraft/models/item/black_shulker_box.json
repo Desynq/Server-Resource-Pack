@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"particle": "block/black_shulker_box",
+		"layer0": "item/backpacks/black"
+	}
+}

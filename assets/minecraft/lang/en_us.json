@@ -1,0 +1,27 @@
+{
+	"item.minecraft.glowstone_dust": "Glowstone Dust (Sulphur)",
+	"item.minecraft.quartz": "Quartz",
+	"item.minecraft.mojang_banner_pattern": "Worldedit Wand",
+	"item.minecraft.netherite_ingot": "Steel Ingot",
+	"item.minecraft.netherite_scrap": "Scrap",
+	"item.minecraft.rabbit_hide": "Small Leather",
+	"item.minecraft.dried_kelp": "Dried Food",
+	"item.minecraft.paper": "Paper Cloth",
+	"item.minecraft.golden_apple": "§6Golden Apple",
+	"item.minecraft.enchanted_golden_apple": "§bDiamond Apple",
+	
+	"block.minecraft.crimson_door": "Glass Door",
+	"block.minecraft.nether_quartz_ore": "Mystium Ore",
+	"block.minecraft.black_stained_glass": "Black Stained Glass (Bulletproof)",
+	"block.minecraft.black_stained_glass_pane": "Black Stained Glass Pane (Bulletproof)",
+	
+	"block.minecraft.shulker_box": "Shulker Backpack",
+
+	"block.minecraft.white_glazed_terracotta": "Solid White",
+	"block.minecraft.magenta_glazed_terracotta": "Solid Magenta",
+	"block.minecraft.yellow_glazed_terracotta": "Solid Yellow",
+	"block.minecraft.blue_glazed_terracotta": "Solid Blue",
+	"block.minecraft.green_glazed_terracotta": "Solid Green",
+	"block.minecraft.red_glazed_terracotta": "Solid Red",
+	"block.minecraft.black_glazed_terracotta": "Solid Black"
+}
