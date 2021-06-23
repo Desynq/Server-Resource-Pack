@@ -83,7 +83,7 @@
 		{
 			"predicate": {
 				"pulling": 1,
-				"pull": 0.58
+				"pull": 0.5
 			},
 			"model": "item/crossbow_pulling_1"
 		},
@@ -107,11 +107,44 @@
 			},
 			"model": "item/crossbow_firework"
 		},
-		{"predicate": {"custom_model_data":1}, "model": "item/crossbow/lee_enfield/lee"},
-		{"predicate": {"custom_model_data":1,"pulling":1}, "model": "item/crossbow/lee_enfield/lee_0"},
-		{"predicate": {"custom_model_data":1,"pulling":1,"pull":0.58}, "model": "item/crossbow/lee_enfield/lee_1"},
-		{"predicate": {"custom_model_data":1,"pulling":1,"pull":1.0}, "model": "item/crossbow/lee_enfield/lee_0"},
-		{"predicate": {"custom_model_data":1,"charged":1}, "model": "item/crossbow/lee_enfield/lee_ready"},
-		{"predicate": {"custom_model_data":1,"charged":1,"firework":1}, "model": "item/crossbow/lee_enfield/lee_launcher"}
+
+
+		
+		{"predicate": {"custom_model_data":1}, "model": "item/crossbow/lee_enfield/standby"},
+		{"predicate": {"custom_model_data":1,"pulling":1}, "model": "item/crossbow/lee_enfield/pulling_0"},
+		{"predicate": {"custom_model_data":1,"pulling":1,"pull":0.5}, "model": "item/crossbow/lee_enfield/pulling_1"},
+		{"predicate": {"custom_model_data":1,"pulling":1,"pull":1.0}, "model": "item/crossbow/lee_enfield/pulling_0"},
+		{"predicate": {"custom_model_data":1,"charged":1}, "model": "item/crossbow/lee_enfield/ready"},
+		{"predicate": {"custom_model_data":1,"charged":1,"firework":1}, "model": "item/crossbow/lee_enfield/launcher"},
+
+		{"predicate": {"custom_model_data":2}, "model": "item/crossbow/m1897/standby"},
+		{"predicate": {"custom_model_data":2,"pulling":1}, "model": "item/crossbow/m1897/pulling_0"},
+		{"predicate": {"custom_model_data":2,"pulling":1,"pull":0.5}, "model": "item/crossbow/m1897/pulling_1"},
+		{"predicate": {"custom_model_data":2,"pulling":1,"pull":1.0}, "model": "item/crossbow/m1897/pulling_0"},
+		{"predicate": {"custom_model_data":2,"charged":1}, "model": "item/crossbow/m1897/ready"},
+
+		{"predicate": {"custom_model_data":3}, "model": "item/crossbow/mp18/standby"},
+		{"predicate": {"custom_model_data":3,"pulling":1}, "model": "item/crossbow/mp18/pulling_0"},
+		{"predicate": {"custom_model_data":3,"charged":1}, "model": "item/crossbow/mp18/ready"},
+
+		{"predicate": {"custom_model_data":4}, "model": "item/crossbow/lewis/standby"},
+		{"predicate": {"custom_model_data":4,"pulling":1}, "model": "item/crossbow/lewis/pulling_0"},
+		{"predicate": {"custom_model_data":4,"charged":1}, "model": "item/crossbow/lewis/ready"},
+
+		{"predicate": {"custom_model_data":5}, "model": "item/crossbow/sawed-off/standby"},
+		{"predicate": {"custom_model_data":5,"pulling":1}, "model": "item/crossbow/sawed-off/pulling_0"},
+		{"predicate": {"custom_model_data":5,"pulling":1,"pull":0.5}, "model": "item/crossbow/sawed-off/pulling_1"},
+		{"predicate": {"custom_model_data":5,"pulling":1,"pull":1.0}, "model": "item/crossbow/sawed-off/pulling_2"},
+		{"predicate": {"custom_model_data":5,"charged":1}, "model": "item/crossbow/sawed-off/ready"},
+
+		{"predicate": {"custom_model_data":6}, "model": "item/crossbow/chauchat/standby"},
+		{"predicate": {"custom_model_data":6,"pulling":1}, "model": "item/crossbow/chauchat/pulling_0"},
+		{"predicate": {"custom_model_data":6,"charged":1}, "model": "item/crossbow/chauchat/ready"},
+
+		{"predicate": {"custom_model_data":7}, "model": "item/crossbow/flare/standby"},
+		{"predicate": {"custom_model_data":7,"pulling":1}, "model": "item/crossbow/flare/pulling_0"},
+		{"predicate": {"custom_model_data":7,"pulling":1,"pull":0.5}, "model": "item/crossbow/flare/pulling_1"},
+		{"predicate": {"custom_model_data":7,"pulling":1,"pull":1.0}, "model": "item/crossbow/flare/pulling_2"},
+		{"predicate": {"custom_model_data":7,"charged":1}, "model": "item/crossbow/flare/ready"}
 	]
 }
