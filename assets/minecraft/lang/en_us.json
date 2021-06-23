@@ -10,11 +10,16 @@
 	"item.minecraft.golden_apple": "§6Golden Apple",
 	"item.minecraft.enchanted_golden_apple": "§bDiamond Apple",
 	
-	"block.minecraft.crimson_door": "Glass Door",
 	"block.minecraft.nether_quartz_ore": "Mystium Ore",
+	"block.minecraft.diorite": "Diorite Rocksalt",
+
+	"block.minecraft.crimson_door": "Glass Door",
 	"block.minecraft.tinted_glass": "Tinted Glass (Bulletproof)",
 	
 	"block.minecraft.shulker_box": "Shulker Backpack",
+	"block.minecraft.black_shulker_box": "Black Kevlar Backpack",
+
+	"container.shulkerBox": "§fBackpack",
 
 	"block.minecraft.white_glazed_terracotta": "Solid White",
 	"block.minecraft.magenta_glazed_terracotta": "Solid Magenta",
