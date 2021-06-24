@@ -1,4 +1,5 @@
 # Server Resource Pack
+## Version 1.01
 - Used for my private servers
 
 ## Asset Credits (Incomplete)
