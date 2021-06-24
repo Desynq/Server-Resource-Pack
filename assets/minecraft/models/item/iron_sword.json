@@ -5,6 +5,8 @@
     },
     "overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/iron_sword/butterfly_knife"},
-		{"predicate": {"custom_model_data":2}, "model": "item/iron_sword/katana"}
+		{"predicate": {"custom_model_data":2}, "model": "item/iron_sword/katana"},
+		{"predicate": {"custom_model_data":3}, "model": "item/iron_sword/shiv"},
+		{"predicate": {"custom_model_data":4}, "model": "item/iron_sword/athame"}
     ]
 }
