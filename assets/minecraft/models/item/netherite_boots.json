@@ -4,7 +4,7 @@
         "layer0": "item/netherite_boots"
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/armor/mystium_boots"},
+		{"predicate": {"custom_model_data":1}, "model": "item/armor/mystium/boots"},
 		{"predicate": {"custom_model_data":2}, "model": "item/armor/power_armor_boots"}
     ]
 }
