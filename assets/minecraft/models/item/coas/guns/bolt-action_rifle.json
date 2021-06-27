@@ -1,7 +1,7 @@
 {
 	"__comment": "M40 Model made by HUNAJAMELONI",
 	"textures": {
-		"texture": "item/coas/guns/bolt_action_rifle"
+		"texture": "item/coas/guns/bolt-action_rifle"
 	},
 	"elements": [
 		{

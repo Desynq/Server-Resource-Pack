@@ -1,7 +1,7 @@
 {
 	"__comment": "Remington Model made by Hunajameloni",
 	"textures": {
-		"texture": "item/coas/guns/remington"
+		"texture": "item/coas/guns/pump-action_shotgun"
 	},
 	"elements": [
 		{
