@@ -1,4 +1,6 @@
 {
+	"soundCategory.voice": "Custom",
+	
 	"item.minecraft.glowstone_dust": "Glowstone Dust (Sulfur)",
 	"item.minecraft.quartz": "Quartz",
 	"item.minecraft.mojang_banner_pattern": "Worldedit Wand",
