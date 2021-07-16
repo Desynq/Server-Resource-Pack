@@ -1,27 +1,26 @@
 {
 	"soundCategory.voice": "Custom",
-	
-	"item.minecraft.glowstone_dust": "Glowstone Dust (Sulfur)",
+
+	"item.minecraft.glowstone_dust": "Glowstone Sulfur Dust",
 	"item.minecraft.quartz": "Quartz",
 	"item.minecraft.mojang_banner_pattern": "Worldedit Wand",
 	"item.minecraft.netherite_ingot": "Steel Ingot",
 	"item.minecraft.netherite_scrap": "Scrap",
 	"item.minecraft.rabbit_hide": "Small Leather",
 	"item.minecraft.dried_kelp": "Dried Food",
-	"item.minecraft.paper": "Paper (Cloth)",
+	"item.minecraft.paper": "Paper Cloth",
 	"item.minecraft.golden_apple": "§6Golden Apple",
 	"item.minecraft.enchanted_golden_apple": "§bDiamond Apple",
-	
+
 	"block.minecraft.nether_quartz_ore": "Mystium Ore",
 	"block.minecraft.diorite": "Diorite Rocksalt",
 
 	"block.minecraft.crimson_door": "Glass Door",
-	"block.minecraft.tinted_glass": "Tinted Glass (Bulletproof)",
-	
-	"block.minecraft.shulker_box": "Shulker Backpack",
-	"block.minecraft.black_shulker_box": "Black Kevlar Backpack",
+	"block.minecraft.tinted_glass": "Bulletproof Tinted Glass",
+	"block.minecraft.lightning_rod": "Copper Lightning Rod",
 
-	"container.shulkerBox": "§fBackpack",
+	"block.minecraft.shulker_box": "Shulkerpack",
+	"block.minecraft.black_shulker_box": "Black Kevlar Shulkerpack",
 
 	"block.minecraft.white_glazed_terracotta": "Solid White",
 	"block.minecraft.magenta_glazed_terracotta": "Solid Magenta",
@@ -29,5 +28,54 @@
 	"block.minecraft.blue_glazed_terracotta": "Solid Blue",
 	"block.minecraft.green_glazed_terracotta": "Solid Green",
 	"block.minecraft.red_glazed_terracotta": "Solid Red",
-	"block.minecraft.black_glazed_terracotta": "Solid Black"
+	"block.minecraft.black_glazed_terracotta": "Solid Black",
+
+
+
+
+
+	"upgrade.race.creep.title.1": "Entropic Shield",
+	"upgrade.race.creep.description.1": "When you have no absorption effect, you gain Absorption V at the cost of one gunpowder",
+
+	"upgrade.race.creep.title.11": "Entropic Explosion",
+	"upgrade.race.creep.description.11": "• Power VI explosion is created when you lose all of your absorption hearts",
+
+	"upgrade.race.creep.title.12": "Condensed Entropy Shielding",
+	"upgrade.race.creep.description.12": "Instead of gaining Absorption V, you gain Absorption X",
+
+
+
+	"upgrade.race.creep.title.2": "Volatile Death",
+	"upgrade.race.creep.description.2": "Explosion on death is twice as strong",
+
+
+
+	"upgrade.race.creep.title.3": "Demolitionist I",
+	"upgrade.race.creep.description.3": "Mundane arrows you fire create a Power III explosion on contact with entities or blocks",
+
+	"upgrade.race.creep.title.31": "Demolitionist II",
+	"upgrade.race.creep.description.31": "Mundane arrows you fire create a Power VI explosion on contact with entities or blocks",
+
+	"upgrade.race.creep.title.311": "Demolitionist III",
+	"upgrade.race.creep.description.311": "Mundane arrows you fire create a Power XII explosion on contact with entities or blocks",
+
+	"upgrade.race.creep.title.3111": "Demolitionist IV",
+	"upgrade.race.creep.description.3111": "Mundane arrows you fire create a Power XXIV explosion on contact with entities or blocks",
+
+
+
+
+
+	"upgrade.race.bloodborne.title.1": "Fighter's Stance",
+	"upgrade.race.bloodborne.description.1": "Immune to knockback from direct damage",
+
+	"upgrade.race.bloodborne.title.11": "Warrior's Adrenaline",
+	"upgrade.race.bloodborne.description.11": "You do more damage the lower health you have.\n• Up to +100% total damage in increments of 5%",
+
+
+
+	"upgrade.race.bloodborne.title.2": "Battlecry",
+	"upgrade.race.bloodborne.description.2": "When a player dies within 16 blocks of you:\n• Mobs within 32 blocks gain:\n  • Weakness V 0:05\n  • Slownesss V 0:05\n• Players within 16 blocks gain:\n  • Strength II 0:10\n  • Haste II 0:10\n  • Speed II 0:10",
+
+	"_comment": "EOF"
 }

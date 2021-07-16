@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/white_dye/redstone_cable"
+		"layer0": "item/white_dye/copper_cable"
 	}
 }

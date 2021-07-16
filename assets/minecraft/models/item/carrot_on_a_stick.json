@@ -57,7 +57,7 @@
 		{"predicate": {"custom_model_data":51}, "model": "item/coas/grenade"},
 		{"predicate": {"custom_model_data":52}, "model": "item/coas/mining_laser"},
 		{"predicate": {"custom_model_data":53}, "model": "item/coas/c4"},
-		{"predicate": {"custom_model_data":54}, "model": "item/coas/shaped_glass"},
+		{"predicate": {"custom_model_data":54}, "model": "item/coas/accessories/handheld/shaped_glass"},
 		{"predicate": {"custom_model_data":55}, "model": "item/coas/accessories/reactor_core"},
 		{"predicate": {"custom_model_data":56}, "model": "item/coas/accessories/baskalisk_heart"},
 		{"predicate": {"custom_model_data":57}, "model": "item/coas/guns/custom/supercharged_staff"},
@@ -155,6 +155,8 @@
 		{"predicate": {"custom_model_data":4001}, "model": "item/coas/accessories/winter_coat"},
 		{"predicate": {"custom_model_data":4002}, "model": "item/coas/accessories/mana_cloak"},
 		{"predicate": {"custom_model_data":4003}, "model": "item/coas/accessories/ice_cube"},
-		{"predicate": {"custom_model_data":4004}, "model": "item/coas/accessories/clownfish_amulet"}
+		{"predicate": {"custom_model_data":4004}, "model": "item/coas/accessories/clownfish_amulet"},
+
+		{"predicate": {"custom_model_data":4005}, "model": "item/coas/accessories/handheld/bloodstained_glass"}
 	]
 }

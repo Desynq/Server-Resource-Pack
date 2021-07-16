@@ -11,7 +11,7 @@
 		{"predicate": {"custom_model_data":5}, "model": "item/white_dye/ammo/.308"},
 		{"predicate": {"custom_model_data":6}, "model": "item/white_dye/reinforced_bars"},
 		{"predicate": {"custom_model_data":7}, "model": "item/white_dye/ender_string"},
-		{"predicate": {"custom_model_data":8}, "model": "item/white_dye/redstone_cable"},
+		{"predicate": {"custom_model_data":8}, "model": "item/white_dye/copper_cable"},
 		{"predicate": {"custom_model_data":9}, "model": "item/white_dye/blueprint_fragment"},
 		{"predicate": {"custom_model_data":10}, "model": "item/white_dye/salt"},
 		{"predicate": {"custom_model_data":11}, "model": "item/white_dye/plastic"},
