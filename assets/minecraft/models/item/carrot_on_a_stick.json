@@ -52,7 +52,7 @@
 		{"predicate": {"custom_model_data":46}, "model": "item/coas/floppy_disk"},
 		{"predicate": {"custom_model_data":47}, "model": "item/coas/zephyr"},
 		{"predicate": {"custom_model_data":48}, "model": "item/coas/watch"},
-		{"predicate": {"custom_model_data":49}, "model": "item/coas/mysts_edge"},
+		
 		{"predicate": {"custom_model_data":50}, "model": "item/coas/ultimatum"},
 		{"predicate": {"custom_model_data":51}, "model": "item/coas/grenade"},
 		{"predicate": {"custom_model_data":52}, "model": "item/coas/mining_laser"},
