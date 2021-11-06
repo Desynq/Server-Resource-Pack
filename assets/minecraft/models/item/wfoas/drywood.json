@@ -1,0 +1,7 @@
+{
+	"parent": "item/wfoas/vorpal/plank",
+	"textures": {
+		"plank":  "vorpal/dark_oak",
+		"string": "vorpal/black"
+	}
+}

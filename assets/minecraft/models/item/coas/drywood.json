@@ -1,7 +1,0 @@
-{
-	"parent": "item/coas/vorpal/plank",
-	"textures": {
-		"plank":  "vorpal/dark_oak",
-		"string": "vorpal/black"
-	}
-}

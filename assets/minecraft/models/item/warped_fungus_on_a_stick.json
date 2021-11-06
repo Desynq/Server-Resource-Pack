@@ -1,0 +1,162 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/warped_fungus_on_a_stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/wfoas/medkit"},
+		{"predicate": {"custom_model_data":2}, "model": "item/wfoas/adrenaline"},
+		{"predicate": {"custom_model_data":3}, "model": "item/wfoas/guns/railgun"},
+		{"predicate": {"custom_model_data":4}, "model": "item/wfoas/morphine"},
+		{"predicate": {"custom_model_data":5}, "model": "item/wfoas/guns/anti-material_rifle"},
+		{"predicate": {"custom_model_data":6}, "model": "item/wfoas/tranquiliser"},
+		{"predicate": {"custom_model_data":7}, "model": "item/wfoas/guns/electrostasis_rifle"},
+		{"predicate": {"custom_model_data":8}, "model": "item/wfoas/battery"},
+		{"predicate": {"custom_model_data":9}, "model": "item/wfoas/wrench"},
+		{"predicate": {"custom_model_data":10}, "model": "item/wfoas/handcuffs"},
+		{"predicate": {"custom_model_data":11}, "model": "item/wfoas/handcuff_key"},
+		{"predicate": {"custom_model_data":12}, "model": "item/wfoas/kc0"},
+		{"predicate": {"custom_model_data":13}, "model": "item/wfoas/kc1"},
+		{"predicate": {"custom_model_data":14}, "model": "item/wfoas/kc2"},
+		{"predicate": {"custom_model_data":15}, "model": "item/wfoas/kc3"},
+		{"predicate": {"custom_model_data":16}, "model": "item/wfoas/kc4"},
+		{"predicate": {"custom_model_data":17}, "model": "item/wfoas/kc5"},
+		{"predicate": {"custom_model_data":18}, "model": "item/wfoas/kc6"},
+		{"predicate": {"custom_model_data":19}, "model": "item/wfoas/guns/assault_rifle"},
+		{"predicate": {"custom_model_data":20}, "model": "item/wfoas/guns/bolt-action_rifle"},
+		{"predicate": {"custom_model_data":21}, "model": "item/wfoas/guns/light_machine_gun"},
+		{"predicate": {"custom_model_data":22}, "model": "item/wfoas/guns/burst_rifle"},
+		{"predicate": {"custom_model_data":23}, "model": "item/wfoas/guns/semi-auto_rifle"},
+		{"predicate": {"custom_model_data":24}, "model": "item/wfoas/guns/submachine_gun"},
+		{"predicate": {"custom_model_data":25}, "model": "item/wfoas/pda"},
+		{"predicate": {"custom_model_data":26}, "model": "item/wfoas/icebag"},
+		{"predicate": {"custom_model_data":27}, "model": "item/wfoas/benzodiazepine"},
+		{"predicate": {"custom_model_data":28}, "model": "item/wfoas/guns/custom/zeus_x27"},
+		{"predicate": {"custom_model_data":29}, "model": "item/wfoas/quantum_entangler"},
+		{"predicate": {"custom_model_data":30}, "model": "item/wfoas/soul_encapsulator"},
+		{"predicate": {"custom_model_data":31}, "model": "item/wfoas/brain"},
+		{"predicate": {"custom_model_data":32}, "model": "item/wfoas/water_bottle"},
+		{"predicate": {"custom_model_data":33}, "model": "item/wfoas/accessories/soul_amulet"},
+		{"predicate": {"custom_model_data":34}, "model": "item/wfoas/guns/desert_eagle"},
+		{"predicate": {"custom_model_data":35}, "model": "item/wfoas/guns/desert_fox"},
+		{"predicate": {"custom_model_data":36}, "model": "item/wfoas/guns/vector"},
+		{"predicate": {"custom_model_data":37}, "model": "item/wfoas/guns/minigun"},
+		{"predicate": {"custom_model_data":38}, "model": "item/wfoas/guns/chemx_svd"},
+		{"predicate": {"custom_model_data":39}, "model": "item/wfoas/drywood"},
+		{"predicate": {"custom_model_data":40}, "model": "item/wfoas/guns/custom/rpg-7"},
+		{"predicate": {"custom_model_data":41}, "model": "item/wfoas/guns/custom/flare_gun"},
+		{"predicate": {"custom_model_data":42}, "model": "item/wfoas/guns/desert_falcon"},
+		{"predicate": {"custom_model_data":43}, "model": "item/wfoas/guns/custom/staff"},
+		{"predicate": {"custom_model_data":44}, "model": "item/wfoas/soul_lantern"},
+		{"predicate": {"custom_model_data":45}, "model": "item/wfoas/flashlight"},
+		{"predicate": {"custom_model_data":46}, "model": "item/wfoas/floppy_disk"},
+		{"predicate": {"custom_model_data":47}, "model": "item/wfoas/zephyr"},
+		{"predicate": {"custom_model_data":48}, "model": "item/wfoas/watch"},
+		
+		{"predicate": {"custom_model_data":50}, "model": "item/wfoas/ultimatum"},
+		{"predicate": {"custom_model_data":51}, "model": "item/wfoas/grenade"},
+		{"predicate": {"custom_model_data":52}, "model": "item/wfoas/mining_laser"},
+		{"predicate": {"custom_model_data":53}, "model": "item/wfoas/c4"},
+		{"predicate": {"custom_model_data":54}, "model": "item/wfoas/accessories/handheld/shaped_glass"},
+		{"predicate": {"custom_model_data":55}, "model": "item/wfoas/accessories/reactor_core"},
+		{"predicate": {"custom_model_data":56}, "model": "item/wfoas/accessories/baskalisk_heart"},
+		{"predicate": {"custom_model_data":57}, "model": "item/wfoas/guns/custom/supercharged_staff"},
+		{"predicate": {"custom_model_data":58}, "model": "item/wfoas/teleporter"},
+		{"predicate": {"custom_model_data":59}, "model": "item/wfoas/vaccine"},
+		{"predicate": {"custom_model_data":60}, "model": "item/wfoas/tool_cupboard"},
+		
+
+
+		{"predicate": {"custom_model_data":200}, "model": "item/wfoas/guns/usp"},
+		{"predicate": {"custom_model_data":201}, "model": "item/wfoas/guns/hk416"},
+		{"predicate": {"custom_model_data":202}, "model": "item/wfoas/guns/pump-action_shotgun"},
+		{"predicate": {"custom_model_data":203}, "model": "item/wfoas/guns/custom/mgl"},
+		{"predicate": {"custom_model_data":204}, "model": "item/wfoas/guns/glock"},
+		{"predicate": {"custom_model_data":205}, "model": "item/wfoas/guns/vss"},
+		{"predicate": {"custom_model_data":206}, "model": "item/wfoas/guns/mp5a3"},
+		{"predicate": {"custom_model_data":207}, "model": "item/wfoas/guns/mp5sd"},
+		{"predicate": {"custom_model_data":208}, "model": "item/wfoas/guns/eoka"},
+		
+
+		{"predicate": {"custom_model_data":300}, "model": "item/wfoas/bags/coalition"},
+		{"predicate": {"custom_model_data":301}, "model": "item/wfoas/bags/militia"},
+		{"predicate": {"custom_model_data":302}, "model": "item/wfoas/bags/sabre"},
+		{"predicate": {"custom_model_data":303}, "model": "item/wfoas/bags/myst"},
+		{"predicate": {"custom_model_data":304}, "model": "item/wfoas/bags/soup_1"},
+		
+		{"predicate": {"custom_model_data":400}, "model": "item/wfoas/summons/slimy_eye"},
+		
+		{"predicate": {"custom_model_data":500}, "model": "item/wfoas/tomes/unbreaking"},
+		
+		{"predicate": {"custom_model_data":2000}, "model": "item/wfoas/guns/hk416/acog_noammo"},
+		{"predicate": {"custom_model_data":2001}, "model": "item/wfoas/guns/hk416/acog_ads"},
+		
+		{"predicate": {"custom_model_data":2100}, "model": "item/wfoas/bmg_shell"},
+		
+		
+		{"predicate": {"custom_model_data":2200}, "model": "item/wfoas/bitminer/cpu1"},
+		{"predicate": {"custom_model_data":2201}, "model": "item/wfoas/bitminer/cpu2"},
+		{"predicate": {"custom_model_data":2202}, "model": "item/wfoas/bitminer/cpu3"},
+		
+		{"predicate": {"custom_model_data":2203}, "model": "item/wfoas/bitminer/gpu1"},
+		{"predicate": {"custom_model_data":2204}, "model": "item/wfoas/bitminer/gpu2"},
+		{"predicate": {"custom_model_data":2205}, "model": "item/wfoas/bitminer/gpu3"},
+		
+		{"predicate": {"custom_model_data":2206}, "model": "item/wfoas/bitminer/hdd1"},
+		{"predicate": {"custom_model_data":2207}, "model": "item/wfoas/bitminer/hdd2"},
+		{"predicate": {"custom_model_data":2208}, "model": "item/wfoas/bitminer/hdd3"},
+		
+		{"predicate": {"custom_model_data":2209}, "model": "item/wfoas/bitminer/ram1"},
+		{"predicate": {"custom_model_data":2210}, "model": "item/wfoas/bitminer/ram2"},
+		{"predicate": {"custom_model_data":2211}, "model": "item/wfoas/bitminer/ram3"},
+		{"predicate": {"custom_model_data":2212}, "model": "item/wfoas/bitminer/ram4"},
+		{"predicate": {"custom_model_data":2213}, "model": "item/wfoas/bitminer/ram5"},
+		{"predicate": {"custom_model_data":2214}, "model": "item/wfoas/bitminer/ram6"},
+		
+		{"predicate": {"custom_model_data":2215}, "model": "item/wfoas/bitminer/heatsink1"},
+		{"predicate": {"custom_model_data":2216}, "model": "item/wfoas/bitminer/heatsink2"},
+		{"predicate": {"custom_model_data":2217}, "model": "item/wfoas/bitminer/heatsink3"},
+		
+		{"predicate": {"custom_model_data":2218}, "model": "item/wfoas/bitminer/off"},
+		{"predicate": {"custom_model_data":2219}, "model": "item/wfoas/bitminer/on"},
+		
+		{"predicate": {"custom_model_data":2220}, "model": "item/wfoas/bitminer/pln_card"},
+		{"predicate": {"custom_model_data":2221}, "model": "item/wfoas/bitminer/smart_card"},
+		{"predicate": {"custom_model_data":2222}, "model": "item/wfoas/bitminer/autosmart_pln_card"},
+		
+		
+		{"predicate": {"custom_model_data":2300}, "model": "item/wfoas/random_blueprint"},
+		{"predicate": {"custom_model_data":2301}, "model": "item/wfoas/blueprint"},
+		
+		
+		
+		{"predicate": {"custom_model_data":3000}, "model": "item/wfoas/materials/singlefire"},
+		{"predicate": {"custom_model_data":3001}, "model": "item/wfoas/materials/burstfire"},
+		{"predicate": {"custom_model_data":3002}, "model": "item/wfoas/materials/autofire"},
+
+		{"predicate": {"custom_model_data":3100}, "model": "item/wfoas/mags/ak_30"},
+		{"predicate": {"custom_model_data":3101}, "model": "item/wfoas/mags/ak_30hv"},
+		{"predicate": {"custom_model_data":3102}, "model": "item/wfoas/mags/ak_75"},
+		{"predicate": {"custom_model_data":3103}, "model": "item/wfoas/mags/9mm_30"},
+		{"predicate": {"custom_model_data":3104}, "model": "item/wfoas/mags/.50ae"},
+		{"predicate": {"custom_model_data":3105}, "model": "item/wfoas/mags/stanag_20"},
+		{"predicate": {"custom_model_data":3106}, "model": "item/wfoas/mags/stanag_30"},
+		{"predicate": {"custom_model_data":3107}, "model": "item/wfoas/mags/p90"},
+		{"predicate": {"custom_model_data":3108}, "model": "item/wfoas/mags/m249"},
+		{"predicate": {"custom_model_data":3109}, "model": "item/wfoas/mags/betacmag"},
+		{"predicate": {"custom_model_data":3110}, "model": "item/wfoas/mags/ak_30inc"},
+		{"predicate": {"custom_model_data":3111}, "model": "item/wfoas/mags/9x39_20"},
+		{"predicate": {"custom_model_data":3112}, "model": "item/wfoas/mags/.50bmg_10"},
+		{"predicate": {"custom_model_data":3113}, "model": "item/wfoas/mags/ap_.50bmg_5"},
+		
+		
+		
+		{"predicate": {"custom_model_data":4000}, "model": "item/wfoas/accessories/ghastly_amulet"},
+		{"predicate": {"custom_model_data":4001}, "model": "item/wfoas/accessories/winter_coat"},
+		{"predicate": {"custom_model_data":4002}, "model": "item/wfoas/accessories/mana_cloak"},
+		{"predicate": {"custom_model_data":4003}, "model": "item/wfoas/accessories/ice_cube"},
+		{"predicate": {"custom_model_data":4004}, "model": "item/wfoas/accessories/clownfish_amulet"},
+
+		{"predicate": {"custom_model_data":4005}, "model": "item/wfoas/accessories/handheld/bloodstained_glass"}
+	]
+}

@@ -44,10 +44,8 @@
 		"upgrade.race.creep.description.12": "Instead of gaining Absorption V, you gain Absorption X",
 
 
-
 	"upgrade.race.creep.title.2": "Volatile Death",
 	"upgrade.race.creep.description.2": "Explosion on death is twice as strong",
-
 
 
 	"upgrade.race.creep.title.3": "Demolitionist I",
@@ -67,7 +65,6 @@
 
 
 
-
 	"upgrade.race.bloodborne.title.1": "Fighter's Stance",
 	"upgrade.race.bloodborne.description.1": "Immune to knockback from direct damage",
 
@@ -75,8 +72,7 @@
 		"upgrade.race.bloodborne.description.11": "You do more damage the lower health you have.\n• Up to +100% total damage in health increments of 5%",
 
 			"upgrade.race.bloodborne.title.111": "Warrior's Adrenaline II",
-			"upgrade.race.bloodborne.description.111": "You do more damage the lower health you have.\n• Up to +200% total damage in health increments of 5%",
-
+			"upgrade.race.bloodborne.description.111": "Damage increments are increased from 5% to 10% for a maximum of +200% total attack damage",
 
 
 	"upgrade.race.bloodborne.title.2": "Battlecry",
