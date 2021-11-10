@@ -1,6 +1,7 @@
 # Server Resource Pack
-## Version 1.01
+## Version 1.02
 - Used for my private servers
+- Do not compile with pack.zip!
 
 ## Asset Credits (Incomplete)
 - A lot of anonymous users from NovaSkins.me for most of the skins
