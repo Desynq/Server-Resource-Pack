@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/white_dye/salt"
+		"layer0": "item/command_block/salt"
 	}
 }

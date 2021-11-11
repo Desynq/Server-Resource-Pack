@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/white_dye/reinforced_bars"
+		"layer0": "item/command_block/reinforced_bars"
 	}
 }

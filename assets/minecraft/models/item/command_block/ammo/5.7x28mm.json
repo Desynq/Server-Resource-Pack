@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/white_dye/ammo/5.7x28mm"
+		"layer0": "item/command_block/ammo/5.7x28mm"
 	}
 }
