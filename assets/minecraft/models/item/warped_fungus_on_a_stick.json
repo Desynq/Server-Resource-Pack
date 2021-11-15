@@ -157,6 +157,10 @@
 		{"predicate": {"custom_model_data":4003}, "model": "item/wfoas/accessories/ice_cube"},
 		{"predicate": {"custom_model_data":4004}, "model": "item/wfoas/accessories/clownfish_amulet"},
 
-		{"predicate": {"custom_model_data":4005}, "model": "item/wfoas/accessories/handheld/bloodstained_glass"}
+		{"predicate": {"custom_model_data":4005}, "model": "item/wfoas/accessories/handheld/bloodstained_glass"},
+
+
+
+		{"predicate": {"custom_model_data":1000000}, "model": "item/wfoas/guns/de_lisle"}
 	]
 }

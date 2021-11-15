@@ -42,11 +42,6 @@
 		{"predicate": {"custom_model_data":101}, "model": "item/command_block/ammo/.50ae"},
 		
 		{"predicate": {"custom_model_data":1000}, "model": "item/command_block/spells/fireball"},
-		
-		{"predicate": {"custom_model_data":2000}, "model": "item/command_block/posters/keyboard"},
-		{"predicate": {"custom_model_data":2001}, "model": "item/command_block/posters/ventmap"},
-		{"predicate": {"custom_model_data":2002}, "model": "item/command_block/posters/ventmap2"},
-		{"predicate": {"custom_model_data":2003}, "model": "item/command_block/posters/screen"},
-		{"predicate": {"custom_model_data":2004}, "model": "item/command_block/posters/screen2"}
+		{"predicate": {"custom_model_data":1000000}, "model": "item/command_block/creeper_flesh"}
     ]
 }
