@@ -1,5 +1,5 @@
 # Server Resource Pack
-## Version 1.05
+## Version 1.06
 - Used for my private servers
 - Do not compile with `pack.zip`!
 - `pack.zip` is a compilation of `assets`, `pack.png`, and `pack.mcmeta`.
