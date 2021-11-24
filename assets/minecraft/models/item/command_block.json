@@ -79,21 +79,21 @@
 
 
 		
-		{"predicate": {"custom_model_data":4000000}, "model": "item/command_block/icon/aid_shop"},
-		{"predicate": {"custom_model_data":4001000}, "model": "item/command_block/icon/back"},
-		{"predicate": {"custom_model_data":4002000}, "model": "item/command_block/icon/blank_slot"},
-		{"predicate": {"custom_model_data":4003000}, "model": "item/command_block/icon/cancel"},
-		{"predicate": {"custom_model_data":4004000}, "model": "item/command_block/icon/casino"},
-		{"predicate": {"custom_model_data":4005000}, "model": "item/command_block/icon/confirm"},
-		{"predicate": {"custom_model_data":4006000}, "model": "item/command_block/icon/economy_menu"},
-		{"predicate": {"custom_model_data":4007000}, "model": "item/command_block/icon/home_menu"},
-		{"predicate": {"custom_model_data":4008000}, "model": "item/command_block/icon/locked_slot"},
-		{"predicate": {"custom_model_data":4009000}, "model": "item/command_block/icon/pawn_shop"},
-		{"predicate": {"custom_model_data":4010000}, "model": "item/command_block/icon/quests_menu"},
-		{"predicate": {"custom_model_data":4011000}, "model": "item/command_block/icon/refresh"},
-		{"predicate": {"custom_model_data":4012000}, "model": "item/command_block/icon/reputation_menu"},
-		{"predicate": {"custom_model_data":4013000}, "model": "item/command_block/icon/stats_menu"},
-		{"predicate": {"custom_model_data":4014000}, "model": "item/command_block/icon/upgrade"},
+		{"predicate": {"custom_model_data":4000000}, "model": "item/command_block/icon/enderchest/aid_shop"},
+		{"predicate": {"custom_model_data":4001000}, "model": "item/command_block/icon/enderchest/back"},
+		{"predicate": {"custom_model_data":4002000}, "model": "item/command_block/icon/enderchest/blank_slot"},
+		{"predicate": {"custom_model_data":4003000}, "model": "item/command_block/icon/enderchest/cancel"},
+		{"predicate": {"custom_model_data":4004000}, "model": "item/command_block/icon/enderchest/casino"},
+		{"predicate": {"custom_model_data":4005000}, "model": "item/command_block/icon/enderchest/confirm"},
+		{"predicate": {"custom_model_data":4006000}, "model": "item/command_block/icon/enderchest/economy_menu"},
+		{"predicate": {"custom_model_data":4007000}, "model": "item/command_block/icon/enderchest/home_menu"},
+		{"predicate": {"custom_model_data":4008000}, "model": "item/command_block/icon/enderchest/locked_slot"},
+		{"predicate": {"custom_model_data":4009000}, "model": "item/command_block/icon/enderchest/pawn_shop"},
+		{"predicate": {"custom_model_data":4010000}, "model": "item/command_block/icon/enderchest/quests_menu"},
+		{"predicate": {"custom_model_data":4011000}, "model": "item/command_block/icon/enderchest/refresh"},
+		{"predicate": {"custom_model_data":4012000}, "model": "item/command_block/icon/enderchest/reputation_menu"},
+		{"predicate": {"custom_model_data":4013000}, "model": "item/command_block/icon/enderchest/stats_menu"},
+		{"predicate": {"custom_model_data":4014000}, "model": "item/command_block/icon/enderchest/upgrade"},
 
 
 
