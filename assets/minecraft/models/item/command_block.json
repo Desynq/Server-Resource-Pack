@@ -1,47 +1,116 @@
 {
     "parent": "minecraft:block/command_block",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/command_block/ammo/5.56x45mm"},
-		{"predicate": {"custom_model_data":2}, "model": "item/command_block/ammo/7.62x49mm.default"},
-		{"predicate": {"custom_model_data":3}, "model": "item/command_block/ammo/7.62x49mm.high_velocity"},
-		{"predicate": {"custom_model_data":4}, "model": "item/command_block/ammo/5.7x28mm"},
-		{"predicate": {"custom_model_data":5}, "model": "item/command_block/ammo/.308"},
-		{"predicate": {"custom_model_data":6}, "model": "item/command_block/reinforced_bars"},
-		{"predicate": {"custom_model_data":7}, "model": "item/command_block/ender_string"},
-		{"predicate": {"custom_model_data":8}, "model": "item/command_block/copper_cable"},
-		{"predicate": {"custom_model_data":9}, "model": "item/command_block/blueprint_fragment"},
-		{"predicate": {"custom_model_data":10}, "model": "item/command_block/salt"},
-		{"predicate": {"custom_model_data":11}, "model": "item/command_block/plastic"},
 		{"predicate": {"custom_model_data":12}, "model": "item/command_block/100_bill"},
 		{"predicate": {"custom_model_data":13}, "model": "item/command_block/posters/sabre"},
 		{"predicate": {"custom_model_data":14}, "model": "item/command_block/posters/calibre"},
-		{"predicate": {"custom_model_data":15}, "model": "item/command_block/uranium_238"},
-		{"predicate": {"custom_model_data":16}, "model": "item/command_block/uranium_235"},
-		{"predicate": {"custom_model_data":17}, "model": "item/command_block/crushed_uraninite"},
-		{"predicate": {"custom_model_data":18}, "model": "item/command_block/purified_uraninite"},
-		{"predicate": {"custom_model_data":19}, "model": "item/command_block/enriched_uranium"},
-		{"predicate": {"custom_model_data":20}, "model": "item/command_block/uranium_235_nugget"},
-		{"predicate": {"custom_model_data":21}, "model": "item/command_block/tape"},
-		{"predicate": {"custom_model_data":22}, "model": "item/command_block/acog"},
-		{"predicate": {"custom_model_data":23}, "model": "item/command_block/4x_scope"},
-		{"predicate": {"custom_model_data":24}, "model": "item/command_block/machine_frame"},
-		{"predicate": {"custom_model_data":25}, "model": "item/command_block/mystite_ore"},
-		{"predicate": {"custom_model_data":26}, "model": "item/command_block/mystite_ingot"},
-		{"predicate": {"custom_model_data":27}, "model": "item/command_block/steel_blend"},
-		{"predicate": {"custom_model_data":28}, "model": "item/command_block/axolotl_gills"},
-		{"predicate": {"custom_model_data":29}, "model": "item/command_block/mystite_rod"},
-		{"predicate": {"custom_model_data":30}, "model": "item/command_block/mystium_shard"},
-		{"predicate": {"custom_model_data":31}, "model": "item/command_block/mystiumite_ingot"},
-		{"predicate": {"custom_model_data":32}, "model": "item/command_block/kevlar_weave"},
 		{"predicate": {"custom_model_data":33}, "model": "item/command_block/lockpick"},
-		{"predicate": {"custom_model_data":34}, "model": "item/command_block/sanguine_tentacle"},
-		{"predicate": {"custom_model_data":35}, "model": "item/command_block/sanguine_tissue"},
-		{"predicate": {"custom_model_data":36}, "model": "item/command_block/carbonite"},
-
-		{"predicate": {"custom_model_data":100}, "model": "item/command_block/ammo/12g"},
-		{"predicate": {"custom_model_data":101}, "model": "item/command_block/ammo/.50ae"},
 		
 		{"predicate": {"custom_model_data":1000}, "model": "item/command_block/spells/fireball"},
-		{"predicate": {"custom_model_data":1000000}, "model": "item/command_block/creeper_flesh"}
+
+
+
+
+
+		{"predicate": {"custom_model_data":1000000}, "model": "item/command_block/materials/4x_scope"},
+		{"predicate": {"custom_model_data":1001000}, "model": "item/command_block/materials/acog"},
+		{"predicate": {"custom_model_data":1002000}, "model": "item/command_block/materials/axolotl_gills"},
+		{"predicate": {"custom_model_data":1003000}, "model": "item/command_block/materials/blueprint_fragment"},
+		{"predicate": {"custom_model_data":1004000}, "model": "item/command_block/materials/carbonite"},
+		{"predicate": {"custom_model_data":1005000}, "model": "item/command_block/materials/copper_cable"},
+		{"predicate": {"custom_model_data":1006000}, "model": "item/command_block/materials/crushed_uraninite"},
+		{"predicate": {"custom_model_data":1007000}, "model": "item/command_block/materials/ender_string"},
+		{"predicate": {"custom_model_data":1008000}, "model": "item/command_block/materials/enriched_uraninite"},
+		{"predicate": {"custom_model_data":1009000}, "model": "item/command_block/materials/ender_string"},
+		{"predicate": {"custom_model_data":1010000}, "model": "item/command_block/materials/enriched_uranium"},
+		{"predicate": {"custom_model_data":1011000}, "model": "item/command_block/materials/kevlar_weave"},
+		{"predicate": {"custom_model_data":1012000}, "model": "item/command_block/materials/machine_frame"},
+		{"predicate": {"custom_model_data":1013000}, "model": "item/command_block/materials/mystite_ingot"},
+		{"predicate": {"custom_model_data":1014000}, "model": "item/command_block/materials/mystite_ore"},
+		{"predicate": {"custom_model_data":1015000}, "model": "item/command_block/materials/mystite_rod"},
+		{"predicate": {"custom_model_data":1016000}, "model": "item/command_block/materials/mystium_shard"},
+		{"predicate": {"custom_model_data":1017000}, "model": "item/command_block/materials/mystiumite_ingot"},
+		{"predicate": {"custom_model_data":1018000}, "model": "item/command_block/materials/plastic"},
+		{"predicate": {"custom_model_data":1019000}, "model": "item/command_block/materials/purified_uraninite"},
+		{"predicate": {"custom_model_data":1020000}, "model": "item/command_block/materials/salt"},
+		{"predicate": {"custom_model_data":1021000}, "model": "item/command_block/materials/sanguine_tentacle"},
+		{"predicate": {"custom_model_data":1022000}, "model": "item/command_block/materials/sanguine_tissue"},
+		{"predicate": {"custom_model_data":1023000}, "model": "item/command_block/materials/steel_blend"},
+		{"predicate": {"custom_model_data":1024000}, "model": "item/command_block/materials/tape"},
+		{"predicate": {"custom_model_data":1025000}, "model": "item/command_block/materials/uranium_235_nugget"},
+		{"predicate": {"custom_model_data":1026000}, "model": "item/command_block/materials/uranium_235"},
+		{"predicate": {"custom_model_data":1027000}, "model": "item/command_block/materials/uranium_238"},
+
+
+
+
+
+		{"predicate": {"custom_model_data":2000000}, "model": "item/command_block/icon/misc/fire"},
+
+
+
+
+
+		{"predicate": {"custom_model_data":3000000}, "model": "item/command_block/icon/upgrades/human/artificer"},
+		{"predicate": {"custom_model_data":3000001}, "model": "item/command_block/icon/upgrades/human/charisma"},
+		{"predicate": {"custom_model_data":3000003}, "model": "item/command_block/icon/upgrades/human/lucky_shots"},
+		{"predicate": {"custom_model_data":3000004}, "model": "item/command_block/icon/upgrades/human/weapons_handling"},
+
+
+		{"predicate": {"custom_model_data":3001000}, "model": "item/command_block/icon/upgrades/creep/explosive_arrows"},
+		{"predicate": {"custom_model_data":3001001}, "model": "item/command_block/icon/upgrades/creep/incendiary_arrows"},
+
+
+		{"predicate": {"custom_model_data":3002000}, "model": "item/command_block/icon/upgrades/sludge/acidic_regurgitation"},
+		{"predicate": {"custom_model_data":3002001}, "model": "item/command_block/icon/upgrades/sludge/mitosis_1"},
+		{"predicate": {"custom_model_data":3002002}, "model": "item/command_block/icon/upgrades/sludge/mitosis_2"},
+		{"predicate": {"custom_model_data":3002003}, "model": "item/command_block/icon/upgrades/sludge/mitosis_3"},
+		{"predicate": {"custom_model_data":3002004}, "model": "item/command_block/icon/upgrades/sludge/natural_economist"},
+
+
+		{"predicate": {"custom_model_data":3003000}, "model": "item/command_block/icon/upgrades/bloodborne/adrenaline_1"},
+		{"predicate": {"custom_model_data":3003001}, "model": "item/command_block/icon/upgrades/bloodborne/fighters_stance"},
+		{"predicate": {"custom_model_data":3003001}, "model": "item/command_block/icon/upgrades/bloodborne/battlecry"},
+
+
+		{"predicate": {"custom_model_data":3004000}, "model": "item/command_block/icon/upgrades/floran/poison_arrows"},
+
+
+
+
+		
+		{"predicate": {"custom_model_data":4000000}, "model": "item/command_block/icon/aid_shop"},
+		{"predicate": {"custom_model_data":4001000}, "model": "item/command_block/icon/back"},
+		{"predicate": {"custom_model_data":4002000}, "model": "item/command_block/icon/blank_slot"},
+		{"predicate": {"custom_model_data":4003000}, "model": "item/command_block/icon/cancel"},
+		{"predicate": {"custom_model_data":4004000}, "model": "item/command_block/icon/casino"},
+		{"predicate": {"custom_model_data":4005000}, "model": "item/command_block/icon/confirm"},
+		{"predicate": {"custom_model_data":4006000}, "model": "item/command_block/icon/economy_menu"},
+		{"predicate": {"custom_model_data":4007000}, "model": "item/command_block/icon/home_menu"},
+		{"predicate": {"custom_model_data":4008000}, "model": "item/command_block/icon/locked_slot"},
+		{"predicate": {"custom_model_data":4009000}, "model": "item/command_block/icon/pawn_shop"},
+		{"predicate": {"custom_model_data":4010000}, "model": "item/command_block/icon/quests_menu"},
+		{"predicate": {"custom_model_data":4011000}, "model": "item/command_block/icon/refresh"},
+		{"predicate": {"custom_model_data":4012000}, "model": "item/command_block/icon/reputation_menu"},
+		{"predicate": {"custom_model_data":4013000}, "model": "item/command_block/icon/stats_menu"},
+		{"predicate": {"custom_model_data":4014000}, "model": "item/command_block/icon/upgrade"},
+
+
+
+
+
+		{"predicate": {"custom_model_data":5000000}, "model": "item/command_block/ammo/5.56x45mm"},
+		{"predicate": {"custom_model_data":5001000}, "model": "item/command_block/ammo/7.62x49mm.default"},
+		{"predicate": {"custom_model_data":5002000}, "model": "item/command_block/ammo/7.62x49mm.high_velocity"},
+		{"predicate": {"custom_model_data":5003000}, "model": "item/command_block/ammo/5.7x28mm"},
+		{"predicate": {"custom_model_data":5004000}, "model": "item/command_block/ammo/.308"},
+		{"predicate": {"custom_model_data":5005000}, "model": "item/command_block/ammo/12g"},
+		{"predicate": {"custom_model_data":5006000}, "model": "item/command_block/ammo/.50ae"},
+
+
+
+
+
+		{"predicate": {"custom_model_data":2147483647}, "model": "minecraft:block/command_block"}
     ]
 }

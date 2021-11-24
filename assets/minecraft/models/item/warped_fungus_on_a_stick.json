@@ -161,6 +161,8 @@
 
 
 
-		{"predicate": {"custom_model_data":1000000}, "model": "item/wfoas/guns/de_lisle"}
+		{"predicate": {"custom_model_data":1000000}, "model": "item/wfoas/guns/de_lisle"},
+		{"predicate": {"custom_model_data":1001000}, "model": "item/wfoas/guns/glock"},
+		{"predicate": {"custom_model_data":1002000}, "model": "item/wfoas/guns/webley"}
 	]
 }
