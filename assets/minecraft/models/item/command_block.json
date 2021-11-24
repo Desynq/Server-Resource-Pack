@@ -61,11 +61,10 @@
 		{"predicate": {"custom_model_data":3001001}, "model": "item/command_block/icon/upgrades/creep/incendiary_arrows"},
 
 
-		{"predicate": {"custom_model_data":3002000}, "model": "item/command_block/icon/upgrades/sludge/acidic_regurgitation"},
-		{"predicate": {"custom_model_data":3002001}, "model": "item/command_block/icon/upgrades/sludge/mitosis_1"},
-		{"predicate": {"custom_model_data":3002002}, "model": "item/command_block/icon/upgrades/sludge/mitosis_2"},
-		{"predicate": {"custom_model_data":3002003}, "model": "item/command_block/icon/upgrades/sludge/mitosis_3"},
-		{"predicate": {"custom_model_data":3002004}, "model": "item/command_block/icon/upgrades/sludge/natural_economist"},
+		{"predicate": {"custom_model_data":3002000}, "model": "item/command_block/icon/upgrades/sludge/mitosis_1"},
+		{"predicate": {"custom_model_data":3002001}, "model": "item/command_block/icon/upgrades/sludge/mitosis_2"},
+		{"predicate": {"custom_model_data":3002002}, "model": "item/command_block/icon/upgrades/sludge/mitosis_3"},
+		{"predicate": {"custom_model_data":3002003}, "model": "item/command_block/icon/upgrades/sludge/natural_economist"},
 
 
 		{"predicate": {"custom_model_data":3003000}, "model": "item/command_block/icon/upgrades/bloodborne/adrenaline_1"},
