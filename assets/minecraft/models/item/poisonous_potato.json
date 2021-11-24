@@ -1,0 +1,9 @@
+{
+		"parent": "item/generated",
+		"textures": {
+				"layer0": "item/poisonous_potato"
+		},
+		"overrides": [
+			{"predicate": {"custom_model_data":1000000}, "model": "item/food/creeper_flesh"}
+		]
+}
