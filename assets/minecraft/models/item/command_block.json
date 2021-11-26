@@ -65,6 +65,7 @@
 		{"predicate": {"custom_model_data":3002001}, "model": "item/command_block/icon/upgrades/sludge/mitosis_2"},
 		{"predicate": {"custom_model_data":3002002}, "model": "item/command_block/icon/upgrades/sludge/mitosis_3"},
 		{"predicate": {"custom_model_data":3002003}, "model": "item/command_block/icon/upgrades/sludge/natural_economist"},
+		{"predicate": {"custom_model_data":3002004}, "model": "item/command_block/icon/upgrades/sludge/cytokinetic_boost"},
 
 
 		{"predicate": {"custom_model_data":3003000}, "model": "item/command_block/icon/upgrades/bloodborne/adrenaline_1"},
