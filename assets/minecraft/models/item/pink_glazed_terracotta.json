@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/template_glazed_terracotta",
+	"textures": {
+		"pattern": "minecraft:block/orange_glazed_terracotta"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "minecraft:item/custom_block/solid_magenta"},
+		{"predicate": {"custom_model_data": 2}, "model": "minecraft:item/custom_block/solid_yellow"},
+		{"predicate": {"custom_model_data": 3}, "model": "minecraft:item/custom_block/solid_green"},
+		{"predicate": {"custom_model_data": 4}, "model": "minecraft:item/custom_block/mystium_ore"}
+	]
+}

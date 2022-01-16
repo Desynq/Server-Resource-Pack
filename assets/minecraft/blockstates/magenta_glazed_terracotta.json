@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "minecraft:block/custom/solid_white"
+		},
+		"facing=north": {
+			"model": "minecraft:block/custom/solid_black"
+		},
+		"facing=south": {
+			"model": "minecraft:block/custom/solid_red"
+		},
+		"facing=west": {
+			"model": "minecraft:block/custom/solid_blue"
+		}
+	}
+}
