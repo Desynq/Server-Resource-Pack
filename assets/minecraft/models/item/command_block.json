@@ -66,11 +66,13 @@
 		{"predicate": {"custom_model_data":3002002}, "model": "item/command_block/icon/upgrades/sludge/mitosis_3"},
 		{"predicate": {"custom_model_data":3002003}, "model": "item/command_block/icon/upgrades/sludge/natural_economist"},
 		{"predicate": {"custom_model_data":3002004}, "model": "item/command_block/icon/upgrades/sludge/cytokinetic_boost"},
+		{"predicate": {"custom_model_data":3002005}, "model": "item/command_block/icon/upgrades/sludge/slow_burner_1"},
+		{"predicate": {"custom_model_data":3002006}, "model": "item/command_block/icon/upgrades/sludge/slow_burner_2"},
 
 
 		{"predicate": {"custom_model_data":3003000}, "model": "item/command_block/icon/upgrades/bloodborne/adrenaline_1"},
 		{"predicate": {"custom_model_data":3003001}, "model": "item/command_block/icon/upgrades/bloodborne/fighters_stance"},
-		{"predicate": {"custom_model_data":3003001}, "model": "item/command_block/icon/upgrades/bloodborne/battlecry"},
+		{"predicate": {"custom_model_data":3003002}, "model": "item/command_block/icon/upgrades/bloodborne/battlecry"},
 
 
 		{"predicate": {"custom_model_data":3004000}, "model": "item/command_block/icon/upgrades/floran/poison_arrows"},

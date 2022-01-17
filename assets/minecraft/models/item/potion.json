@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data":1000001}, "model": "item/potion/bourbon_bucket"},
 		{"predicate": {"custom_model_data":1000002}, "model": "item/potion/vodka_bucket"},
 		{"predicate": {"custom_model_data":1000003}, "model": "item/potion/whiskey_bucket"},
-		{"predicate": {"custom_model_data":1000004}, "model": "item/potion/wine_bucket"}
+		{"predicate": {"custom_model_data":1000004}, "model": "item/potion/wine_bucket"},
+		{"predicate": {"custom_model_data":1000005}, "model": "item/potion/hip_flask"}
 	]
 }

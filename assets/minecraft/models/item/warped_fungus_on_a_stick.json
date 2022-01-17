@@ -41,7 +41,6 @@
 		{"predicate": {"custom_model_data":35}, "model": "item/wfoas/guns/desert_fox"},
 		{"predicate": {"custom_model_data":36}, "model": "item/wfoas/guns/vector"},
 		{"predicate": {"custom_model_data":37}, "model": "item/wfoas/guns/minigun"},
-		{"predicate": {"custom_model_data":38}, "model": "item/wfoas/guns/chemx_svd"},
 		{"predicate": {"custom_model_data":39}, "model": "item/wfoas/drywood"},
 		{"predicate": {"custom_model_data":40}, "model": "item/wfoas/guns/custom/rpg-7"},
 		{"predicate": {"custom_model_data":41}, "model": "item/wfoas/guns/custom/flare_gun"},
@@ -76,6 +75,7 @@
 		{"predicate": {"custom_model_data":206}, "model": "item/wfoas/guns/mp5a3"},
 		{"predicate": {"custom_model_data":207}, "model": "item/wfoas/guns/mp5sd"},
 		{"predicate": {"custom_model_data":208}, "model": "item/wfoas/guns/eoka"},
+		{"predicate": {"custom_model_data":209}, "model": "item/wfoas/guns/dart_gun"},
 		
 
 		{"predicate": {"custom_model_data":300}, "model": "item/wfoas/bags/coalition"},
