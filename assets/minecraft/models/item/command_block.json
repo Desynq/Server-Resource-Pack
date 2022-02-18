@@ -40,6 +40,7 @@
 		{"predicate": {"custom_model_data":1025000}, "model": "item/command_block/materials/uranium_235_nugget"},
 		{"predicate": {"custom_model_data":1026000}, "model": "item/command_block/materials/uranium_235"},
 		{"predicate": {"custom_model_data":1027000}, "model": "item/command_block/materials/uranium_238"},
+		{"predicate": {"custom_model_data":1028000}, "model": "item/command_block/materials/polar_bear_fur"},
 
 
 
@@ -59,6 +60,7 @@
 
 		{"predicate": {"custom_model_data":3001000}, "model": "item/command_block/icon/upgrades/creep/explosive_arrows"},
 		{"predicate": {"custom_model_data":3001001}, "model": "item/command_block/icon/upgrades/creep/incendiary_arrows"},
+		{"predicate": {"custom_model_data":3001002}, "model": "item/command_block/icon/upgrades/creep/demolitionist_4"},
 
 
 		{"predicate": {"custom_model_data":3002000}, "model": "item/command_block/icon/upgrades/sludge/mitosis_1"},
@@ -96,6 +98,7 @@
 		{"predicate": {"custom_model_data":4012000}, "model": "item/command_block/icon/enderchest/reputation_menu"},
 		{"predicate": {"custom_model_data":4013000}, "model": "item/command_block/icon/enderchest/stats_menu"},
 		{"predicate": {"custom_model_data":4014000}, "model": "item/command_block/icon/enderchest/upgrade"},
+		{"predicate": {"custom_model_data":4015000}, "model": "item/command_block/icon/enderchest/info"},
 
 
 
