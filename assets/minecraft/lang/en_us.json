@@ -11,14 +11,13 @@
 	"item.minecraft.paper": "Paper Cloth",
 	"item.minecraft.golden_apple": "§6Golden Apple",
 	"item.minecraft.enchanted_golden_apple": "§bDiamond Apple",
-
-	"block.minecraft.nether_quartz_ore": "Mystium Ore",
+	
 	"block.minecraft.diorite": "Diorite Rocksalt",
 
 	"block.minecraft.crimson_door": "Glass Door",
 	"block.minecraft.tinted_glass": "Bulletproof Tinted Glass",
 	"block.minecraft.lightning_rod": "Copper Lightning Rod",
-
+	
 	"block.minecraft.shulker_box": "Shulkerpack",
 	"block.minecraft.black_shulker_box": "Black Kevlar Shulkerpack",
 
