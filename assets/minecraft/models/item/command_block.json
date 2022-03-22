@@ -41,6 +41,7 @@
 		{"predicate": {"custom_model_data":1026000}, "model": "item/command_block/materials/uranium_235"},
 		{"predicate": {"custom_model_data":1027000}, "model": "item/command_block/materials/uranium_238"},
 		{"predicate": {"custom_model_data":1028000}, "model": "item/command_block/materials/polar_bear_fur"},
+		{"predicate": {"custom_model_data":1029000}, "model": "item/command_block/materials/wool_of_bat"},
 
 
 
