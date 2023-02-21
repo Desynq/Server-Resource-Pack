@@ -1,9 +1,0 @@
-{
-    "parent": "block/barrel",
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom_blocks/grate_top"},
-		{"predicate": {"custom_model_data":2}, "model": "item/custom_blocks/hazard"},
-		{"predicate": {"custom_model_data":3}, "model": "item/custom_blocks/crate"},
-		{"predicate": {"custom_model_data":4}, "model": "item/custom_blocks/redsand_ferrous"}
-    ]
-}
