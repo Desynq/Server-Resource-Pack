@@ -1,34 +1,35 @@
 # Server Resource Pack
+
 ## Version 1.06
+
 - Used for my private servers
-
-
 
 ## Asset Credits (Incomplete)
 
 ### Models and Textures
+
 - A lot of anonymous users from NovaSkins.me for most of the textures
 - Wynncraft Team
-	- Vortex Armor
+  - Vortex Armor
 - Hunajameloni : [Warfare Resource Pack](https://www.planetminecraft.com/texture-pack/block-ops-zombies/)
-	- Some of the 3D guns
+  - Some of the 3D guns
 - Tinkers Construct
 - Thaumcraft
-	- Some item textures
+  - Some item textures
 - Minefactory Reloaded
 - DannyBeisner
-	- Most of the high-poly guns
+  - Most of the high-poly guns
 - Hypixel
-	- Some gun models
+  - Some gun models
 
 ### Models
 
 - Zaxaco
-	- De Lisle
+  - De Lisle
 
 ### Textures
 
 - Mekanism
-	- Portable Teleporter
+  - Portable Teleporter
 - Botania
-	- WorldEdit Wand
+  - WorldEdit Wand
